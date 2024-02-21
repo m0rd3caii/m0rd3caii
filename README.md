@@ -10,5 +10,5 @@
  - 💻 Pentester
  - 🚩 CTF Player
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m0rdecaii&hide=contribs,prs)
+
 
